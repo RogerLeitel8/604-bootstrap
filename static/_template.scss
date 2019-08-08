@@ -1,0 +1,8 @@
+body{
+    display: grid;
+    grid-template-areas: "header header header header"
+                         "section section section section"
+                         "aside aside aside aside"
+                         "footer footer footer footer"
+                         "last last last last";
+}
